@@ -1,5 +1,8 @@
 
-- 👋 Hi, I’m @jack2bs
-- 👀 I’m interested in EE, especially embedded these days but that stuff probably won't make it to github
-- 🌱 I’m currently an ECE major at Princeton
-- 📫 How to reach me: $(my-username)@me.com
+- 👋 Hi, I’m Jack Toubes!
+
+I have a bunch of my projects (mostly embedded systems stuff) in this repository. I really appreciate you taking the time to check it out!
+
+Some of my older projects are no longer accessible due to the passing of computers, but I've put as many as I can up here.
+
+I can be reached at jack.toubes@princeton.edu with any questions or feedback.
