@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Jack Toubes!
+👋 Hi, I’m Jack Toubes!
 
 I have a bunch of my projects (mostly embedded systems stuff) in this repository. I really appreciate you taking the time to check it out!
 
